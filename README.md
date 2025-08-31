@@ -37,7 +37,8 @@ TIL/
 새로운 개념, 함수, 명령어 등을 학습했을 때 사용합니다.
 ---
 
-# YYYY년 MM월 DD일 TIL ## Fact: 주제 또는 핵심 키워드
+# YYYY년 MM월 DD일 TIL 
+## Fact: 주제 또는 핵심 키워드
 
 ### 알게 된 것 (What I learned)
 - 오늘 학습한 내용에 대한 설명을 간결하게 작성합니다.
@@ -59,7 +60,8 @@ def example_function():
 템플릿 2: 에러 & 트러블슈팅 템플릿
 에러를 해결했거나, 특정 문제를 해결하며 배운 점이 있을 때 사용하면 매우 효과적입니다.
 ---
-# YYYY년 MM월 DD일 TIL ## Trouble Shooting: 발생한 문제 요약
+# YYYY년 MM월 DD일 TIL 
+## Trouble Shooting: 발생한 문제 요약
 
 ### 겪은 문제 (Problem)
 - 어떤 상황에서 어떤 문제가 발생했는지 구체적으로 작성합니다.
